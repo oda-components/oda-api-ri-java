@@ -8,10 +8,11 @@ You can view the api documentation in swagger-ui by pointing to
 http://localhost:8080/swagger-ui.html
 
 # Tooling
-1. Install [Open JDK](https://openjdk.org/projects/jdk/21/)
-2. Install [OpenAPI Generator](https://openapi-generator.tech/docs/installation)
-3. Install [Maven](https://maven.apache.org/download.cgi)
-4. Clone the [project](https://github.com/oda-components/oda-api-ri-springboot)
+* Install [Open JDK](https://openjdk.org/projects/jdk/21/)
+* Install [OpenAPI Generator](https://openapi-generator.tech/docs/installation)
+* Install [Redis Stack](https://redis.io/docs/install/install-stack/)
+* Install [Maven](https://maven.apache.org/download.cgi)
+* Clone the [project](https://github.com/oda-components/oda-api-ri-springboot)
 
 # Clone and Build
 ```bash
